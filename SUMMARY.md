@@ -22,6 +22,7 @@
   * [ENSIP-11: EVM compatible Chain Address Resolution](ens-improvement-proposals/ensip-11-evmchain-address-resolution.md)
   * [ENSIP-12: Avatar Text Records](ens-improvement-proposals/ensip-12-avatar-text-records.md)
   * [ENSIP-13: SAFE Authentication for ENS](ens-improvement-proposals/ensip-13-secondary-authentication-for-ens.md)
+  * [ENSIP-14: On-chain Source Parameter](ens-improvement-proposals/ensip-14-platform-source-parameter.md)
 
 ## Dapp Developer Guide
 
@@ -34,6 +35,7 @@
 * [ENS Front-End Design Guidelines](dapp-developer-guide/front-end-design-guidelines.md)
 * [ENS as NFT](dapp-developer-guide/ens-as-nft.md)
 * [ENS Layer2 and offchain data support](dapp-developer-guide/ens-l2-offchain.md)
+* [ENS Data guide](dapp-developer-guide/ens-data-guide.md)
 
 ## Contract API Reference
 
@@ -46,6 +48,9 @@
   * [Registrar](contract-api-reference/.eth-permanent-registrar/registrar.md)
   * [Controller](contract-api-reference/.eth-permanent-registrar/controller.md)
 * [DNS Registrar](contract-api-reference/dns-registrar.md)
+* [Subgraph](contract-api-reference/subgraph/subgraphdata.md)
+  * [Entities](contract-api-reference/subgraph/entities.md)
+  * [Query Examples](contract-api-reference/subgraph/queries.md)
 
 ## Contract Developer Guide
 
@@ -53,7 +58,7 @@
 * [Writing a Resolver](contract-developer-guide/writing-a-resolver.md)
 * [Writing a Registrar](contract-developer-guide/writing-a-registrar.md)
 * [ENS Discussion Forum](https://discuss.ens.domains)
-* [ENS Support Chat](https://discord.gg/AskZbFx)
+* [ENS Support Chat](https://chat.ens.domains)
 
 ## ENS Migration (February 2020)
 
